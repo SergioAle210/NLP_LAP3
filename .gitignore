@@ -1,0 +1,15 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+tmp/
+
+# Conservamos en Git únicamente las páginas seleccionadas del corpus.
+119-2014-02-11-Kafka.La metamorfosis.pdf
+
+# Cachés, modelos y checkpoints locales.
+.cache/
+.jupyter/
+models/
+checkpoints/
+*.safetensors
+pytorch_model.bin
