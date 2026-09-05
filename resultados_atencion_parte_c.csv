@@ -1,0 +1,17 @@
+﻿oración,objetivo,subpalabra consulta,segmentación completa,capa,cabeza,top 1,top 2,top 3,top 4,top 5
+P20-compleja,Gregorio,Gregorio,Gregorio,1,1,Gregorio (0.2162),padre (0.0725),[SEP] (0.0371),Así (0.0336),madre (0.0286)
+P20-compleja,Gregorio,Gregorio,Gregorio,1,7,", (0.2146)",[CLS] (0.1801),##is (0.0588),enter (0.0504),con (0.0453)
+P20-compleja,Gregorio,Gregorio,Gregorio,12,1,Gregorio (0.2746),##arse (0.2309),[CLS] (0.0897),[SEP] (0.0725),", (0.0704)"
+P20-compleja,Gregorio,Gregorio,Gregorio,12,7,Gregorio (0.2453),", (0.1556)",##arse (0.1508),[CLS] (0.1010),- (0.0684)
+P20-compleja,dinero,dinero,dinero,1,1,dinero (0.0928),enter (0.0496),[CLS] (0.0321),[SEP] (0.0273),pues (0.0230)
+P20-compleja,dinero,dinero,dinero,1,7,algún (0.3609),; (0.1815),dinero (0.0637),no (0.0553),mucho (0.0496)
+P20-compleja,dinero,dinero,dinero,12,1,dinero (0.1304),intereses (0.1034),##los (0.0778),padre (0.0435),los (0.0431)
+P20-compleja,dinero,dinero,dinero,12,7,dinero (0.3460),intereses (0.1008),la (0.0471),queda (0.0447),explica (0.0351)
+P21-simple,empezó,empezó,empezó,1,1,[CLS] (0.4054),[SEP] (0.1571),poco (0.0923),Poco (0.0702),empezó (0.0686)
+P21-simple,empezó,empezó,empezó,1,7,poco (0.3580),a (0.1521),[CLS] (0.0963),a (0.0685),ver (0.0679)
+P21-simple,empezó,empezó,empezó,12,1,. (0.2213),Poco (0.1550),ver (0.1437),[CLS] (0.1347),empezó (0.0736)
+P21-simple,empezó,empezó,empezó,12,7,. (0.2400),empezó (0.2299),Poco (0.1230),con (0.0927),a (0.0815)
+P21-simple,claridad,clar,clar + ##idad,1,1,clar (0.1736),con (0.1305),empezó (0.1215),##idad (0.1173),poco (0.1173)
+P21-simple,claridad,clar,clar + ##idad,1,7,##idad (0.5638),. (0.1522),[SEP] (0.0717),con (0.0565),[CLS] (0.0366)
+P21-simple,claridad,clar,clar + ##idad,12,1,. (0.2403),clar (0.1909),[SEP] (0.1528),[CLS] (0.1307),##idad (0.0803)
+P21-simple,claridad,clar,clar + ##idad,12,7,clar (0.3252),. (0.1735),[SEP] (0.1355),##idad (0.0659),[CLS] (0.0587)
