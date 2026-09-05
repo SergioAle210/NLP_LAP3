@@ -1,6 +1,7 @@
 1. Descripción
 Analizarás oraciones complejas utilizando un modelo Transformer encoder-only, preferiblemente BERT. El objetivo es inspeccionar matrices de atención y estudiar cómo diferentes capas y cabezas distribuyen atención entre tokens.
 La actividad no busca afirmar que los pesos de atención sean explicaciones causales completas. Busca desarrollar una lectura crítica de representaciones internas de un Transformer.
+
 2. Objetivos
 - Tokenizar texto con el tokenizer de BERT.
 - Ejecutar un modelo Transformer con `output_attentions=True`.
@@ -8,10 +9,12 @@ La actividad no busca afirmar que los pesos de atención sean explicaciones caus
 - Extraer los tokens con mayor atención desde tokens seleccionados.
 - Comparar patrones entre oraciones, capas y cabezas.
 - Analizar límites de interpretar atención como explicación.
+
 3. Corpus
 La Metamorfosis Kafka
 2 paginas consecutivas al azar.
- 4. Modelo Recomendado
+
+4. Modelo Recomendado
 ```text
 bert-base-multilingual-cased
 ```
@@ -27,7 +30,6 @@ Instalación:
 
 5. Procedimiento
  
-
 Parte A: Tokenización
  
 
